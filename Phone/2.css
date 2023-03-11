@@ -1,0 +1,34 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#contentF {
+    width: 91vw;
+    height: 71%;
+}
+#container_f1{
+    width: fit-content;
+}
+#container_f2{
+    width: 100vw;
+}
+#Mid_Sec {
+    position: relative;
+    width: 81vw;
+    height: 93vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#container_content_2 {
+    width: 49vw;
+    height: 42vh;
+}
+
+#NavBar-2 {
+    max-width: 100%;
+}

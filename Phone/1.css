@@ -1,0 +1,34 @@
+@media all and (max-width:1000px){
+    html{
+        font-size: 40%;
+    }
+
+    
+
+}
+
+#contentF {
+    width: 84%;
+    height: 89%;
+}
+
+#Content_1{
+    height: 39vh;
+}
+#MC_P {
+    margin-bottom: 2rem;
+}
+#Content_2{
+    height: 13vh;
+    border-top: 1.5px dotted #bbb;
+}
+#QR{
+    height: 6vh;
+}
+
+#Main_content_1{
+    height: fit-content;
+}
+#Main_content_1-2{
+    height: fit-content;
+}

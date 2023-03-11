@@ -1,0 +1,118 @@
+footer {
+    width: 98.7vw;
+    height: 42vh;
+    display: flex;
+}
+
+#container_f1 {
+    width: 49.5vw;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+#contentF {
+    width: 33.5vw;
+    height: 39.6vh;
+    background-image: url(https://image.architonic.com/pro2-3/20094279/wall-by-patel-2-dd114162-pro-b-arcit18.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 0rem 8rem;
+    background-position: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#container_f2 {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.F2_box {
+    width: 81%;
+    height: 14vh;
+    border-top: 2px solid var(--Matte-B);
+    display: flex;
+    justify-content: space-between;
+}
+
+#F2_content1 {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: var(--Matte-B);
+}
+
+#F2_C1 {
+    width: 25%;
+    height: 100%;
+}
+
+#F2_C1 h1 {
+    font-size: 2.8rem;
+    text-align: center;
+    margin-top: 1rem;
+    font-family: 'Tilt Warp', cursive;
+    /* font-family: var(--Font); */
+    font-weight: 100;
+}
+
+#F2_C2 {
+    width: 60%;
+    height: 100%;
+    font-family: var(--PARA);
+    
+}
+#F2_C2 h2 {
+    margin-bottom: 0;
+    font-weight: 500;
+    font-size: 1rem;
+    margin-top: 1.5rem;
+
+}
+#F2_C2 h2:nth-child(2) {
+    margin-top: 0px;
+}
+
+
+
+#F2_content2 {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: var(--Matte-B);
+}
+
+#F2_content2 h4{
+    font-family: var(--PARA);
+    font-weight: 500;
+}
+
+#F2_content2 h4:nth-child(2){
+    margin-right: 1rem; ;
+}
+
+
+
+
+
+
+
+
